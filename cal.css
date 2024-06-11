@@ -10,7 +10,7 @@ body
     /* background: rgba(15, 14, 28, 0.963); */
     /* background: linear-gradient(216deg, rgba(21,19,66,1) 0%, rgba(13,15,46,1) 37%, rgba(2,19,54,1) 100%); */
     background-image: url(red-and-blue-calculators-yxm0myfzuym67431.jpg);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
  font-family: "Ubuntu", sans-serif;
     /* backdrop-filter: blur(10px); */
